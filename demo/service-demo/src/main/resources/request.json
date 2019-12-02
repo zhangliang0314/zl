@@ -1,0 +1,15 @@
+{
+  "context": {
+    "id": "5cbb5e52-5e62-495e-8643-23e2d2a731f0",
+    "corpid": "1937501a-b06f-4bf6-87d6-d5b515dacd26",
+    "nsrsbh": "111222333456111",
+    "type": "TaxEquipmentResult",
+    "equipmentCode": "电票01"
+  },
+  "data": {
+    "code": "状态码",
+    "msg": "状态码对应信息",
+    "content": "<?xml version='1.0' encoding='GBK'?>\n<business>\n    <RESPONSE_COMMON_FPKJ>\n        <FPQQLSH>1001697491351564288</FPQQLSH>\n        <JQBH>666666666666</JQBH>\n        <FP_DM>074582695746</FP_DM>\n        <FP_HM>27463488</FP_HM>\n        <KPRQ>20180530133218</KPRQ>\n        <FP_MW>&lt;-&lt;&gt;48938&lt;4+&lt;14&gt;735+&lt;2554*8-1-&lt;+15&lt;*026+848686/2/3//0&gt;+*&gt;&gt;&gt;356*&lt;757/47&gt;90+&lt;25&lt;&lt;3575**934&lt;+15&lt;*026+848686--57</FP_MW>\n        <JYM>57644233870940613901</JYM>\n        <EWM />\n        <BZ />\n        <RETURNCODE>0000</RETURNCODE>\n        <RETURNMSG>发票开具成功！</RETURNMSG>\n    </RESPONSE_COMMON_FPKJ>\n</business>",
+    "invoiceType": "开票类型"
+  }
+}

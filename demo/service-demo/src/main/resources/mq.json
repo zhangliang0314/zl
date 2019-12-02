@@ -1,0 +1,16 @@
+{
+  "context": {
+    "corpid": "1937501a-b06f-4bf6-87d6-d5b515dacd26",
+    "equipmentCode": "电票01",
+    "id": "5cbb5e52-5e62-495e-8643-23e2d2a731f0",
+    "nsrsbh": "111222333456111",
+    "type": "InvoiceApply"
+  },
+  "data": {
+    "data": "<?xml version=\"1.0\" encoding=\"GBK\"?>\n<business comment=\"发票开具\" id=\"FPKJ\">\n    <REQUEST_COMMON_FPKJ class=\"REQUEST_COMMON_FPKJ\">\n        <COMMON_FPKJ_FPT class=\"COMMON_FPKJ_FPT\">\n            <FPQQLSH>1199235412193476608</FPQQLSH>\n            <BMB_BBH>12.0</BMB_BBH>\n            <TSPZ>00</TSPZ>\n            <KPLX>0</KPLX>\n            <CPYBZ/>\n            <HSBZ>0</HSBZ>\n            <XSF_NSRSBH>111222333456111</XSF_NSRSBH>\n            <XSF_MC>测试1</XSF_MC>\n            <XSF_DZDH>海淀122 89891111</XSF_DZDH>\n            <XSF_YHZH>七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十 一</XSF_YHZH>\n            <GMF_NSRSBH>342601199803144632</GMF_NSRSBH>\n            <GMF_MC>zl123</GMF_MC>\n            <GMF_DZDH/>\n            <GMF_YHZH/>\n            <KPR>测试test</KPR>\n            <SKR/>\n            <FHR/>\n            <YFP_DM/>\n            <YFP_HM/>\n            <JSHJ>1.00</JSHJ>\n            <HJJE>0.97</HJJE>\n            <HJSE>0.03</HJSE>\n            <BZ/>\n        </COMMON_FPKJ_FPT>\n        <COMMON_FPKJ_XMXXS class=\"COMMON_FPKJ_XMXX\" size=\"1\">\n            <COMMON_FPKJ_XMXX>\n                <FPHXZ>0</FPHXZ>\n                <XMMC>橡皮</XMMC>\n                <GGXH/>\n                <SPBM>3010101010300000000</SPBM>\n                <ZXBM>10</ZXBM>\n                <YHZCBS>0</YHZCBS>\n                <LSLBS/>\n                <ZZSTSGL/>\n                <DW/>\n                <XMSL>1</XMSL>\n                <XMDJ>0.97</XMDJ>\n                <SE>0.03</SE>\n                <XMJE>0.97</XMJE>\n                <SL>0.03</SL>\n                <KCE/>\n            </COMMON_FPKJ_XMXX>\n        </COMMON_FPKJ_XMXXS>\n    </REQUEST_COMMON_FPKJ>\n</business>\n",
+    "fpjz": "0",
+    "fplx": "1",
+    "fpqqlsh": "1199235412193476608",
+    "zsfs": "0"
+  }
+}
